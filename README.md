@@ -27,7 +27,7 @@ This was built to solve two problems I had with our existing pond pumphouse setu
 
 Our pumphouse is situated in a floodplain that has a raising and lowering water level, occasionally this can get high enough to flood the pump. The tub-style shape of this mount gains an extra few inches of water level before the pump would be flooded.
 
-The vibration damping ball isolation prevents the pump from transfering its sound and vibration into the wood structure of the pump house to keep noise levels down.
+The vibration damping ball isolation prevents the pump from transferring its sound and vibration into the wood structure of the pump house to keep noise levels down.
 
 ## Technologies
 
