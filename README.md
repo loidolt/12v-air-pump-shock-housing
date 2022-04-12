@@ -3,7 +3,7 @@ published: true
 status: complete
 date: 04/12/2022
 tags: 3d-printing
-description:
+description: Shock isolation mount for a standard size 12v air pump. Tall sides for preventing pump flooding if water levels raise.
 slug: 12v-air-pump-shock-housing
 ---
 
@@ -40,8 +40,6 @@ The vibration damping ball isolation prevents the pump from transfering its soun
 3. Epoxy the bottom plate to the tub.
 4. Seal the outside of the tub with epoxy for waterproofing.
 5. Mount the pump to the tub and the tub to a structure (inside a pumphouse typically).
-
-`write-your-code-here`
 
 ## Notes
 
